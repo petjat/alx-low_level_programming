@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - a program that prints all the number of base 16 in lowercase
+ * main - Entry point
  *
- * Return: Always return 0
+ * Return: Always 0
  */
 int main(void)
 {
