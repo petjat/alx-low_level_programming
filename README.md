@@ -1,1 +1,1 @@
-my C project
+nested C prog
